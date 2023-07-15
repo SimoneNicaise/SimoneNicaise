@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SimoneNicaise
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on software projets
 - 📫 How to reach me simnicaise2014@gmail.com
 
 <!---
